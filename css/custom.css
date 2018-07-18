@@ -1,0 +1,26 @@
+.caja{
+    background-color: yellow;
+    height: 100%;
+    width: 100%;
+    left: 0px;
+    position: absolute;
+}
+
+.caja2{
+    background-image: url(/img/wapsat.png);
+    height: 100px;
+    width: 100px;
+    right: 20px;
+    top: 20px;
+
+    position: fixed;
+}
+
+.caja3{
+    height: 30px;
+    width: 100px;
+    right: 160px;
+    top: 50px;
+
+    position: fixed;
+}
